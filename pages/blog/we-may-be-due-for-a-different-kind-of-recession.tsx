@@ -11,21 +11,21 @@ function regulating_the_frontends_of_Decentralized_Exchanges({}: Props) {
   return (
     <div className='max-w-2xl mx-auto'>
     <Head>
-      <title>Regulating the frontends of Decentralized Exchanges - Blog</title>
+      <title>We may be due for a different kind of recession - Blog</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <meta property="og:title" content="Regulating the frontends of Decentralized Exchanges - Blog"/>
-            <meta property="og:description" content="Nickolas Tazes' Blog"/>
+      <meta property="og:title" content="We may be due for a different kind of recession - Blog"/>
+            <meta property="og:description" content="Eleftherios Laliotis' Blog"/>
             <meta property="og:type" content="website"/>
-            <meta property="og:url" content="https://tazes.me/blog/regulating-the-frontends-of-Decentralized-Exchanges"/>
-            <meta property="og:image" content="https://tazes.me/Regulating%20the%20frontends%20of%20Decentralized%20Exchanges.png"/>
-            <meta name="twitter :site" content="@nickolas_tazes" />
-            <meta name= "twitter:creator" content="@nickolas_tazes"/>
-            <meta property="og:url" content=" https://tazes.me/blog/regulating-the-frontends-of-Decentralized-Exchanges"/>
+            <meta property="og:url" content="https://laliotis.me/blog/we-may-be-due-for-a-different-kind-of-recession"/>
+            <meta property="og:image" content="https://laliotis.me/Recession_cover_image.png"/>
+            <meta name="twitter :site" content="@greekdubliner" />
+            <meta name= "twitter:creator" content="@greekdubliner"/>
+            <meta property="og:url" content=" https://tazes.me/blog/we-may-be-due-for-a-different-kind-of-recession"/>
             <meta name="twitter:card" content="summary_large_image"/>
-            <meta name="twitter:image:alt" content="An image of space with the article's title."/>
-            <meta name="twitter:title" content="Regulating the frontends of Decentralized Exchanges - Blog"/>
-            <meta name="twitter:description" content="Nickolas Tazes' Blog"/>
-            <meta name="twitter:image" content="https://tazes.me/Regulating%20the%20frontends%20of%20Decentralized%20Exchanges.png"/>
+            <meta name="twitter:image:alt" content="A graph with unemployment rate and inflation."/>
+            <meta name="twitter:title" content="We may be due for a different kind of recession - Blog"/>
+            <meta name="twitter:description" content="Eleftherio Laliotis' Blog"/>
+            <meta name="twitter:image" content="https://laliotis.me/Recession_cover_image.png"/>
     </Head>
 
     <Header />
@@ -37,10 +37,10 @@ function regulating_the_frontends_of_Decentralized_Exchanges({}: Props) {
     </div>
 
       <article className='mx-auto text-center py-16 max-w-2xl'>
-            <h1 className='text-slate-100 font-semibold text-3xl text-start px-4 lg:px-8 my-2'>Regulating the frontends of Decentralized Exchanges</h1>
-            <p className='text-slate-300 text-sm text-left px-4 lg:px-8 mb-2'>2022-12-05</p>
+            <h1 className='text-slate-100 font-semibold text-3xl text-start px-4 lg:px-8 my-2'>We may be due for a different kind of recession</h1>
+            <p className='text-slate-300 text-sm text-left px-4 lg:px-8 mb-2'>2022-09-26</p>
             <p className='text-slate-300/80 italic text-sm text-left px-4 lg:px-8 mb-6'>Disclaimer: These are my current thoughts, and they are subject to change in the future.</p>
-            <Image src={'/Regulating the frontends of Decentralized Exchanges.png'} height={300} width={600} className='w-full object-cover rounded-[8px]' alt="An image of space with the article's title." />
+            <Image src={'/Regulating the frontends of Decentralized Exchanges.png'} height={300} width={600} className='w-full object-cover rounded-[8px]' alt="A graph with unemployment rate and inflation." />
 
             <p className='text-slate-300 text-left px-4 lg:px-8 mt-6'>
             It is now the 5th of December, 2022, at 01:29. I’m sipping some Balley’s and thinking about the regulations of frontends of DEXs. Maybe I need to get a life, but this is a conversation for another day.
