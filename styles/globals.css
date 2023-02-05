@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: #191919;
+}
+
+  
+.bg {
+    position: relative;
+}
+
+.bg:after {
+    background: radial-gradient(50% 50% at 50% 50%, #c800ff63 0%, #0085ff52 50%, #1400ff06 100%);
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    filter: blur(100px) saturate(150%);
+    z-index: -1;
+    top: 80px;
+    opacity: 0.6;
+    transform: translateZ(0);
+}
+
+.bgblog {
+    position: relative;
+}
+
+.bgblog:after {
+    background: radial-gradient(50% 50% at 50% 50%, #c800ff63 0%, #0085ff52 50%, #1400ff06 100%);
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    filter: blur(100px) saturate(150%);
+    z-index: -1;
+    top: 80px;
+    right: 20px;
+    opacity: 0.6;
+    transform: translateZ(0);
+}
