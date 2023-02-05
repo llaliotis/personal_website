@@ -8,7 +8,7 @@ const projects = [
     name: 'Swollet',
     handle: 'Swollet is a Financial Empowerment Platform focused on gamifying financial education and providing on-chain credentials.',
     imageUrl:
-      'https://media.licdn.com/dms/image/D4D0BAQGOZvTgvyy6WA/company-logo_200_200/0/1663078790971?e=1683763200&v=beta&t=6v_TNaSVY2Zq_qMnbdVadm2lQZPO3VRbExmbSSVfpjM',
+      'https://swollet.com/images/swollet_logo_for_website.jpeg',
     date: 'To Be Launched',
     link: 'https://swollet.com',
   },
@@ -16,7 +16,7 @@ const projects = [
     name: 'Ultimo Digital Marketing',
     handle: 'A one stop shop agency which helps entrepreneurs build online businesses. From logos & designs to website development & marketing.',
     imageUrl:
-      'https://media.licdn.com/dms/image/C560BAQFLGyHW15vDPQ/company-logo_200_200/0/1606351425225?e=1683763200&v=beta&t=fSHovgonGi5R6armM8QPW1pvRp7NbXzDHMNoSR-bAKs',
+      'https://swollet.com/images/ultimo_logo_for_website.jpeg',
     date: 'Nov 2020 - Present',
     link: 'https://ultimodigitalmarketing.com/',
   },
@@ -24,7 +24,7 @@ const projects = [
     name: 'KaramelaDAO',
     handle: 'At KaramelaDAO we experiment with new technologies and new concepts and we try to push the limits of what is possible in the crypto space. If you have an interesting/crazy idea, join us and let us build together.',
     imageUrl:
-      'https://media.licdn.com/dms/image/C560BAQFnlUVMdHtUGw/company-logo_200_200/0/1642010464750?e=1683763200&v=beta&t=ZK3PjErNvY-4uiCsP4QKOxPCftSlqtu44GtFPhWrLVw',
+      'https://swollet.com/images/karamela_logo_for_website.jpeg',
     date: 'Nov 2021 - Present',
     link: 'https://karameladao.com/',
   },
