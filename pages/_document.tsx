@@ -25,7 +25,7 @@ class MyDocument extends Document {
             <meta name="twitter:image:alt" content="emerald laliotis in a black background"/>
             <meta name="twitter:title" content="Eleftherios Laliotis"/>
             <meta name="twitter:description" content="Founder of Swollet. Since the beginning of 2020, I have been creating and implementing a range of groundbreaking initiatives with the aim of addressing significant social and economic issues. The projects I have undertaken include:"/>
-            <meta name="twitter:image" content="https://tazes.me/ogpersonal.png"/>
+            <meta name="twitter:image" content="https://laliotis.me/ogpersonal.png"/>
         </Head>
         <body>
           <Main />
