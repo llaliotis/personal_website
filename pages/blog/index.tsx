@@ -6,6 +6,7 @@ import Image from 'next/image'
 import Footer from '../../components/Footer'
 
 
+
 type Props = {}
 
 function index({}: Props) {
