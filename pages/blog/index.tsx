@@ -38,6 +38,17 @@ function index({}: Props) {
               </div>
               </a>
               </article>
+
+              <article className='my-7 mx-4 lg:mx-8 border border-[#292929] py-3 px-2 bg-[#202020] rounded-[12px]'>
+              <a href="/blog/how-to-start-investing-the-easy-way">
+                <Image src={'/investing_cover_image.png'} height={200} width={600} className='w-full object-cover rounded-[8px]' />
+              <div className='items-center space-y-2'>
+                <h2 className='text-slate-100 font-semibold text-xl text-left'>How to start investing in the stock market now: The easy way</h2>
+                <p className='text-slate-300 text-sm text-left'>2021-12-17</p>
+                <p className='text-slate-300 text-sm text-left'>I have been working as an investment management professional for the past 7 years for two of the biggest asset managers worldwide. What I’ve learned throughout my career...</p>
+              </div>
+              </a>
+              </article>
             
         </div>
 
