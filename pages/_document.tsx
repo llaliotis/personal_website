@@ -15,7 +15,7 @@ class MyDocument extends Document {
             <meta property="og:title" content="Eleftherios Laliotis"/>
             <meta property="og:description" content="Founder of Swollet"/>
             <meta property="og:type" content="website"/>
-            <meta property="og:url" content="https://lalioits.me"/>
+            <meta property="og:url" content="https://laliotis.me"/>
             <meta property="og:image" content="/ogpersonal.png"/>
             <link rel="icon" href="/Group 219.png"/>
             <meta name="twitter :site" content="@greekdubliner" />
