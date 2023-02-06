@@ -15,7 +15,7 @@ function we_may_be_due_for_a_different_kind_of_recession({}: Props) {
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       <meta property="og:title" content="We may be due for a different kind of recession - Blog"/>
             <meta property="og:description" content="Eleftherios Laliotis' Blog"/>
-            <meta property="og:type" content="website"/>
+            <meta property="og:type" content="article"/>
             <meta property="og:url" content="https://laliotis.me/blog/we-may-be-due-for-a-different-kind-of-recession"/>
             <meta property="og:image" content="https://laliotis.me/Recession_cover_image.png"/>
             <meta name="twitter :site" content="@greekdubliner" />
